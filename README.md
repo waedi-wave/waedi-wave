@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waedi-wave
+- 👋 Hi, I’m @yusuf-wadi
 - 👀 I’m interested in BCI and VR
 - 🌱 I’m currently learning C++, Java, and Assembly
 - 💞️ I’m looking to collaborate on ...
