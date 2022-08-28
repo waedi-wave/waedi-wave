@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusuf-wadi
 - 👀 I’m interested in BCI, ML, and VR
-- 🌱 I’m currently learning C++, Java, and Assembly
+- 🌱 I’m currently learning Neural Nets, ML, and Computational Neuroscience
 - 📫 How to reach me yusufwadi1@gmail.com, ymw200000@utdallas.edu, 4699695733
 
 <!---
