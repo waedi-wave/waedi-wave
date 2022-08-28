@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusuf-wadi
-- 👀 I’m interested in BCI and VR
+- 👀 I’m interested in BCI, ML, and VR
 - 🌱 I’m currently learning C++, Java, and Assembly
 - 📫 How to reach me yusufwadi1@gmail.com, ymw200000@utdallas.edu, 4699695733
 
