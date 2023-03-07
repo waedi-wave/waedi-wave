@@ -1,7 +1,6 @@
 # 👋 Hi
 
 ### I’m @yusuf-wadi
-⬇️
 
 - 👀 I’m interested in BCI, ML, and VR
 - 🌱 I’m currently learning Neural Nets, ML, and Computational Neuroscience
