@@ -9,7 +9,6 @@
 - 📫 How to reach me: {yusufwadi1@gmail.com, ymw200000@utdallas.edu}
 
 ---
-`
 - [resume](https://www.github.com/yusuf-wadi/YusufWadi_CS_Resume_Single_Column.pdf)
 - [linkedin](https://www.linkedin.com/in/yusuf-wadi/)
 - [youtube](https://www.youtube.com/channel/UCAuh281iFil8t1jYVkcRUTg)
