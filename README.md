@@ -3,7 +3,7 @@
 ### I’m @yusuf-wadi
 
 - 👀 I’m interested in: BCI, ML, and VR
-- 🌱 Constantly Learning: Neural Nets, ML, and Computational Neuroscience
+- 🌱 Constantly Learning: Cognitive and Computer sciences
 - 🥼 Currently researching: NeRF (neural radiance fields)
 - 📫 How to reach me: {yusufwadi1@gmail.com, ymw200000@utdallas.edu}
 
