@@ -6,6 +6,7 @@
 - 🌱 Constantly Learning: Cognitive and Computer sciences
 - 🥼 Currently researching: NeRF (neural radiance fields)
 - 📫 How to reach me: {yusufwadi1@gmail.com, ymw200000@utdallas.edu}
+- Working on building an LLM OS, reach out to collaborate
 
 ### Additional
 - [resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/YusufWadi_CS_Resume_Single_Column.pdf)
