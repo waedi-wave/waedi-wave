@@ -9,7 +9,7 @@
 - Working on building an LLM OS, reach out to collaborate
 
 ### Additional
-- [resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/YusufWadi_CS_Resume_Single_Column.pdf)
+- [resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/vXYusufWadi_updated_resume.pdf)
 - [linkedin](https://www.linkedin.com/in/yusuf-wadi/)
 - [youtube](https://www.youtube.com/channel/UCAuh281iFil8t1jYVkcRUTg)
 
