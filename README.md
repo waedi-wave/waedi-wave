@@ -12,6 +12,9 @@
 - [resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/YusufWadi_CS_Resume_Single_Column.pdf)
 - [linkedin](https://www.linkedin.com/in/yusuf-wadi/)
 - [youtube](https://www.youtube.com/channel/UCAuh281iFil8t1jYVkcRUTg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-wadi&size_weight=0.5&count_weight=0.5)
+
 <!---
 waedi-wave/waedi-wave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
