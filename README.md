@@ -1,8 +1,7 @@
 # 👋 Hi
 
-### I’m @yusuf-wadi
+## I’m @yusuf-wadi
 - keep me on your radar.
-### Additional
 - [Resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/Yusuf_Wadi_Base.pdf)
 - [Linkedin](https://www.linkedin.com/in/yusuf-wadi/)
 - [Youtube](https://www.youtube.com/channel/UCAuh281iFil8t1jYVkcRUTg)
