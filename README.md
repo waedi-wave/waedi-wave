@@ -1,5 +1,5 @@
 The Road to Brain API.
-- [Resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/Yusuf_Wadi_Base.pdf)
+- [Resume](https://github.com/yusuf-wadi/yusuf-wadi/blob/main/Yusuf_Wadi_Resume.pdf)
 - [Linkedin](https://www.linkedin.com/in/yusuf-wadi/)
 - [Youtube](https://www.youtube.com/channel/UCAuh281iFil8t1jYVkcRUTg)
 
